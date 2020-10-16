@@ -1,4 +1,4 @@
-# pandas-challenge
+# Pandas-Challenge Heros of Pymoli
 # Introduction
 For this homework assignment I choose to work on Option 1: Heroes of Pymoli. In this scenario I had landed a job as the lead analyst for an independent gaming company and had been assinged the task of analyzing the data for their most recent fantasy game Heros of Pymoli. In this report there are data breakdowns showing total number of players, total purchasing analysis, gender demographics, purchasing analysis by gender, age demographics, purchasing analysis by age, and a top spending analysis. There are many insights and conclusions that can be drawn from the analysis, a few of which have been called out in the conclusions section od the README. 
 # Conclusions 
